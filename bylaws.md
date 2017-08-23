@@ -1,58 +1,111 @@
-# Bylaws
+# Bylaws of the Alpha Chapter of Massachusetts of Upsilon Pi Epsilon
 
-## Article I: Scope of the Bylaws
+We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in order to foster the development of an inclusive and supportive environment which shall promote high scholarship and achievement within the Computer Science community at Worcester Polytechnic Institute, declare these bylaws to define the workings of our chapter. The ALPHA CHAPTER OF MASSACHUSETTS shall be located at the WORCESTER POLYTECHNIC INSTITUTE, in Worcester, Massachusetts.
 
-1. These Bylaws shall govern the conduct of the Chapter in those matters not specifically treated in the Constitution. 
-2. Provisions of these Bylaws shall be subordinate to those of the Constitution. 
+## Article I: Definitions
 
-## Article II: Election of the Officers
+1. A member will be considered an **Active Member** if they have attended at least 50% of general body meetings per semester when they have not been considered “away.” A member is considered “away” if he or she is participating in an off-campus MQP, IQP, Co-op, or Humanities Project. Regular members who have not attended at least one meeting shall not be considered active.
+2. A **Quorum** shall consist of two-thirds of the Active Members of the Chapter in any regular or special meeting.
+3. A **Vote** shall consist of votes in person or, at the discretion of the Executive Board, votes by proxy but such proxy votes shall not count towards quorum.
 
-1. The Officers of the Chapter shall be elected at the first business meeting after the election of new Members during the last term of the year (D Term).
-2. Installation of Officers shall take place at the meeting during which they are elected.
+## Article II: Adoption and Amendment
+
+1. These bylaws shall become effective immediately upon adoption.
+2. These bylaws shall remain in effect until revised or amended.
+3. Any provision of these bylaws may be temporarily suspended by a two-thirds affirmative vote of the Active Membership of the chapter. The period of which the suspension is valid shall be determined at the time of the vote.
+4. These bylaws may be suspended in whole or in part by a unanimous vote of the Executive Board with the consent of the Chapter Advisor.
+5. Any proposed amendment to these bylaws must be distributed to all members no later than two weeks prior to any vote on the adoption of such amendment.
+6. The adoption of any amendment to these Bylaws shall require a two-thirds affirmative vote of the Active Membership of the Chapter at a regular or special meeting.
+
+## Article III: Membership
+
+1. This Chapter shall consist of Members and Honorary Members.
+2. The membership of the Chapter shall be made up of individuals whose academic achievements, reputations and creative abilities deserve recognition, and whose membership would enhance the stature of the Association. Specifically, the membership shall include graduate students, undergraduate students, former students, and faculty in the Computer Science Department at Worcester Polytechnic Institute, elected according to the procedures detailed in Article VI of these Bylaws.
+3. Honorary Members shall be individuals of distinguished achievement in Computer Science.
+4. Eligibility for membership shall not be restricted according to race, nationality, creed, color, sexual orientation or sex.
+
+## Article IV: Chapter Officers
+
+### Section I: Composition of the Executive Board
+
+1. The society shall elect three primary executive officers: a President, Secretary, and Treasurer.
+2. The term of an office shall be from the first day of C-Term until the day before the first day of C-term of the subsequent year.
+3. Additional executive positions other than those specified above shall be created or removed at the discretion of the President, and the term for such positions shall be the same as the primary offices’.
+4. An individual appointed to an additional executive position shall not be removed from office until their term expires (Except as specified in Section V).
+
+### Section II: Responsibilities of the Officers
+
+1. The President shall be the primary point of contact of the society, shall preside over meetings, shall conduct the induction of new members, shall be responsible for determining who is eligible to be inducted into the society, and shall create and appoint committees for special purposes as necessary.
+2. The Secretary shall keep records of all the transactions of the Chapter, and in particular shall keep the minutes of the meetings. The secretary shall communicate to all members the dates, times, and locations of meetings, and shall coordinate the scheduling of a time and place, having secured them, for such meetings.
+3. The Treasurer shall collect all dues and assessments and shall issue, with the assistance of the Secretary, notices of special assessments. The Treasurer shall have charge of all funds of the Chapter, shall authorize payment of bills presented against the Chapter, and shall pay therefrom bills presented against the Chapter which have been approved for payment. The Treasurer shall also represent the chapter in financial matters, in particular before the Student Government Association.
+4. Additional officer positions as created by the President shall have responsibilities as described therein.
+5. No officer shall be held accountable for a duty or responsibility created or enacted after appointment to his or her position.
+6. The Faculty Advisor shall be a senior member of the Computer Science teaching staff. The duties of the Faculty Advisor shall be to consult on matters of Chapter policy and to act as auditor of Chapter finances.
+
+### Section IV: Election of the Officers
+
+1. The Officers of the Chapter shall be elected at the first general body meeting of  the fall semester (B Term).
+2. Installation of Officers shall take place at the first day of C term.
 3. The newly elected Officers shall assume their duties upon installation.
-4. In order to be eligible to hold office, the President must have been active in the Chapter for the equivalent of one term. 
-5. The Officers of this Chapter shall be elected by secret ballot. 
-6. There shall be no voting by proxies allowed.
-7. Voting shall be done in the order of: President, Vice President, Secretary, and Treasurer. Voting shall take place between speeches for each position.
-8. The Faculty Advisor shall be selected from the Computer Science faculty. 
+4. In order to be eligible to hold office, the member must have been active at time of induction and must maintain active status for the remainder of their elected term.
+5. The confidentially of all votes should be maintained.
+6. Voting shall be done in the order of: President, Secretary, Treasurer, and all additional officers. Voting shall take place between speeches for each position.
+7. Vacancies in any office shall be filled by special election held at the next general body meeting.
 
-## Article III: Chapter Meetings
+### Section V: Impeachment
 
-1. Regular meetings will be held at least once per term, excepting the summer term.
-2. Members must attend at least 50% of full-body meetings per semester when they are not considered “away.” A member is considered “away” if he or she is participating in an off-campus MQP, IQP, Co-op, or Humanities Project.
-3. Special meetings may be called by the President, the Executive Council, or by petition of one-half of the Active Membership of the Chapter.
-4. A quorum shall consist of one third of the Active members of the Chapter in the conduct of the business of the Chapter, except for the election of Officers or new Members, at which three-quarters of the Active Members of the Chapter must be present. 
-5. All Active Members shall be notified of a special meeting and its purpose by the Secretary one week prior to the meeting. 
-6. No business shall be conducted at a called special meeting except that for which the meeting was called. 
+1. Any executive officer may be immediately removed from office by an affirmative vote of two-thirds of Active Members.
+2. Additionally, any executive officer may be removed from their position by an affirmative vote of all other members of the Executive  Board and with the approval of the Faculty Advisor.
 
-## Article IV: Special Duties 
+## Article V: Chapter Proceedings
 
-1. In addition to his/her regular duties, the Secretary shall make all arrangements for the regular and special meetings.
+### Section I: Chapter Meetings
 
-## Article V: Finances 
+1. Regular meetings will be held at least once per term, excepting the summer terms.
+2. Special meetings may be called by the President, the Executive Board, or by petition of one-half of the Active Membership of the Chapter.
+3. All Active Members shall be notified of a special meeting and its purpose by the Secretary one week prior to the meeting.
+4. No business shall be conducted at a called special meeting except that for which the meeting was called.
+5. Inactive members may petition the Executive Board for reactivation and reactivation shall be determined by a committee appointed by the president.
 
-1. The initiation fee charged each new Member by the Chapter shall be twenty dollars, in addition to the initiation fee of the Association.
-2. Each initiate shall be required to pay all dues and initiation fees prior to his/her initiation.
-3. Special assessments may be made at any time, upon approval of three-fourths of the Active Members of the Chapter.
+### Section II: Finances
 
-## Article VI: Induction Ceremony 
+1. The Chapter shall charge a fee to each new member which shall consist of a Chapter Initiation Fee in the amount of twenty dollars in addition to an Association Initiation Fee which shall be determined by the National Association.
+2. Each initiate shall be required to pay Chapter and Association initiation fees prior to his/her initiation.
+3. Special assessments may be made at any time by a three-fourths affirmative vote of the Active Members of the Chapter.
 
-1. The induction of new Members shall be held within four weeks of the time of their election.
-2. The induction shall specifically avoid any practice which conflicts with WPI regulations or which constitutes an attack upon the personal dignity for the initiates. The activities shall be devised to stimulate the inductees’ interest in Computer Science and to acquaint them better with the Members of the Chapter.
+## Article VI: Induction of New Members
 
-## Article VII: Election of Members 
+### Section I: Induction Ceremony
 
-1. There shall be two elections of new Members each year, once in B term and once in D term.
-2. The officers shall prepare a list of all eligible candidates, ordered with faculty members first, followed by students ranked according to analysis of academic standing.
-3. The list prepared according to the preceding section shall be submitted to faculty Members of the Association, who shall be asked to make written remarks with respect to the fitness of the candidates with whom they are acquainted.
-4. The candidates from the list prepared by the officers who are favorably recommended by the Faculty Advisory Committee shall have their names, and the remarks obtained under Section 3 of this Article, presented at the election meeting.
-5. The names of those elected to membership shall be given to the President, who shall then issue them invitations to become Members of the Association, and of this Chapter.
-6. Failure of a Member-elect to notify the Chapter of his/her acceptance of the invitation to Membership within one week of its issuance shall constitute notice of refusal.
+1. The induction of new Members shall be held within eight weeks of the time of their election.
+2. The induction shall specifically avoid any practice which conflicts with WPI regulations or which constitutes an attack upon the personal dignity of the initiates. The activities shall be devised to stimulate the inductees’ interest in Computer Science and to acquaint them better with the Members of the Chapter.
 
-## Article VIII: Adoption and Amendment
+### Section II: Eligibility of Candidates
 
-1. These Bylaws shall become effective immediately upon adoption.
-2. These Bylaws shall remain in effect until revised or amended.
-3. A provision of these Bylaws may be temporarily suspended by a two-thirds vote of the Active Membership of the Chapter. The period of which the suspension is valid shall be determined at the time of the vote. 
-4. A proposed amendment to these Bylaws must be disseminated to the members two weeks prior to voting.
-5. A two-thirds affirmative vote of the present membership of the Chapter shall be required for the adoption of an amendment to these Bylaws at a regular or special meeting.
+The eligibility of students, former students, and faculty for election to membership in this Chapter of the Upsilon Pi Epsilon Association shall be determined as follows:
+
+1. A graduate student must be a candidate for a graduate degree in Computer Science, and must have completed at least twelve credits of graduate study, three-quarters of this with a grade level of A.
+2. Undergraduate student eligibility shall require junior or senior status, a minimum of two Computer Science related units, with greater than fifty percent of A's in Computer Science, and a majority of A's and B's in non-Computer Science courses.
+3. A faculty member must have been teaching in the Computer Science program or in a field closely related thereto, at Worcester Polytechnic Institute for at least one year in order to be eligible for membership in the Association. He or she must have been in responsible charge of development, preparation, or presentation of courses, or in charge of research in the Computer Science field. Achievements in research and teaching shall determine eligibility for a faculty member, rather than scholastic achievements.
+4. Former students who, at the time of their completion of degree requirements in Computer Science, satisfied the admission requirements shall be eligible for election to membership in this Chapter of the Association.
+5. Former students who do not qualify under the provisions of the previous subsection, but whose achievements in and contributions to the Computing field qualify them for appointment in the society shall be eligible for induction into the Society.
+
+### Section III: Election of Members
+
+1. There shall be one election of new members each year, occurring just prior to the winter recess.
+2. The president shall prepare a list of all candidates eligible for induction into the Society.
+3. The candidates from the list prepared by the officers shall have their names presented to the society. The society may then nominate by name individuals from this list, whereupon the society shall vote on extending an offer for membership. Each nominated candidate must be discussed.
+4. Votes for induction of new members shall require a present quorum. A vote shall pass if two-thirds of members not abstaining vote in the affirmative and the number of affirmative votes is no less than twenty percent of members in attendance.
+5. The balloting for the nominated candidate’s election shall be carried out before the next candidate is considered. In case a candidate fails a first ballot, he or she may be discussed further, and a second and final vote shall be taken. On a failure at the second ballot, the individual shall not be considered for membership again that year.
+6. The list prepared according to the preceding section shall be submitted to faculty members of the Institution, who shall be asked to make written remarks with respect to the fitness of the candidates with whom they are acquainted. There must be at least one positive recommendation from faculty, and no negative recommendations for the member to be invited to join. These recommendations will remain confidential to the President and Secretary.
+7. The names of those elected to membership shall be given to the President, who shall then issue them invitations to become Members of the Association, and of this Chapter.
+8. Failure of a member-elect to notify the Chapter of his/her acceptance of the invitation to membership within one week of its issuance shall constitute notice of refusal.
+9. The maximum number of members shall not be limited.
+10. The procedure for nomination and induction of new members shall be conducted once per year.
+11. Members of any other chapter of the Upsilon Pi Epsilon Association shall be eligible for automatic induction as regular members contingent upon their payment of the Chapter initiation fee.
+12. Membership should not be offered to a particular individual a second time if such membership has been previously declined by that individual for any reason with the exception of hardship cases. A student or faculty member who is offered membership may defer his or her induction until a later term.
+
+## Article VII: Enabling Clauses
+
+1. The ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION agrees to abide by the policies of Worcester Polytechnic Institute as well as Federal, State, and local laws.
+2. The provisions of these bylaws shall be subordinate to the Constitution and Bylaws of the international UPSILON PI EPSILON ASSOCIATION.
