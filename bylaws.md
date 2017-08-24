@@ -28,8 +28,8 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 
 ### Section I: Composition of the Executive Board
 
-1. The society shall elect three primary executive officers: a President, Secretary, and Treasurer.
-2. The term of an office shall be from the first day of C-Term until the day before the first day of C-term of the subsequent year.
+1. The society shall elect four primary executive officers: a President, Vice-President, Secretary, and Treasurer.
+2. The term of an office shall be from the first day of D-Term until the day before the first day of D-term of the subsequent year.
 3. Additional executive positions other than those specified above shall be created or removed at the discretion of the President, and the term for such positions shall be the same as the primary offices’.
 4. An individual appointed to an additional executive position shall not be removed from office until their term expires (Except as specified in Section V).
 
@@ -44,11 +44,11 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 
 ### Section IV: Election of the Officers
 
-1. The Officers of the Chapter shall be elected at the first general body meeting of  the fall semester (B Term).
-2. Installation of Officers shall take place at the first day of C term.
+1. The Officers of the Chapter shall be elected at the first general body meeting of  the fall semester (C Term).
+2. Installation of Officers shall take place at the first day of D term.
 3. The newly elected Officers shall assume their duties upon installation.
 4. In order to be eligible to hold office, the member must have been active at time of induction and must maintain active status for the remainder of their elected term.
-5. The confidentially of all votes should be maintained.
+5. The confidentiality of all votes should be maintained.
 6. Voting shall be done in the order of: President, Secretary, Treasurer, and all additional officers. Voting shall take place between speeches for each position.
 7. Vacancies in any office shall be filled by special election held at the next general body meeting.
 
@@ -61,7 +61,7 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 
 ### Section I: Chapter Meetings
 
-1. Regular meetings will be held at least once per term, excepting the summer terms.
+1. Regular meetings will be held at least once per term, except in the summer terms.
 2. Special meetings may be called by the President, the Executive Board, or by petition of one-half of the Active Membership of the Chapter.
 3. All Active Members shall be notified of a special meeting and its purpose by the Secretary one week prior to the meeting.
 4. No business shall be conducted at a called special meeting except that for which the meeting was called.
@@ -85,25 +85,26 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 The eligibility of students, former students, and faculty for election to membership in this Chapter of the Upsilon Pi Epsilon Association shall be determined as follows:
 
 1. A graduate student must be a candidate for a graduate degree in Computer Science, and must have completed at least twelve credits of graduate study, three-quarters of this with a grade level of A.
-2. Undergraduate student eligibility shall require junior or senior status, a minimum of two Computer Science related units, with greater than fifty percent of A's in Computer Science, and a majority of A's and B's in non-Computer Science courses.
+2. Undergraduate student eligibility shall require a minimum of a year and a half of credits, and a minimum of two Computer Science related units, with greater than fifty percent of A's in Computer Science, and a majority of A's and B's in non-Computer Science courses.
 3. A faculty member must have been teaching in the Computer Science program or in a field closely related thereto, at Worcester Polytechnic Institute for at least one year in order to be eligible for membership in the Association. He or she must have been in responsible charge of development, preparation, or presentation of courses, or in charge of research in the Computer Science field. Achievements in research and teaching shall determine eligibility for a faculty member, rather than scholastic achievements.
 4. Former students who, at the time of their completion of degree requirements in Computer Science, satisfied the admission requirements shall be eligible for election to membership in this Chapter of the Association.
 5. Former students who do not qualify under the provisions of the previous subsection, but whose achievements in and contributions to the Computing field qualify them for appointment in the society shall be eligible for induction into the Society.
 
 ### Section III: Election of Members
 
-1. There shall be one election of new members each year, occurring just prior to the winter recess.
+1. There shall be one election of new members each year, occurring prior to the winter recess.
 2. The president shall prepare a list of all candidates eligible for induction into the Society.
-3. The candidates from the list prepared by the officers shall have their names presented to the society. The society may then nominate by name individuals from this list, whereupon the society shall vote on extending an offer for membership. Each nominated candidate must be discussed.
-4. Votes for induction of new members shall require a present quorum. A vote shall pass if two-thirds of members not abstaining vote in the affirmative and the number of affirmative votes is no less than twenty percent of members in attendance.
-5. The balloting for the nominated candidate’s election shall be carried out before the next candidate is considered. In case a candidate fails a first ballot, he or she may be discussed further, and a second and final vote shall be taken. On a failure at the second ballot, the individual shall not be considered for membership again that year.
-6. The list prepared according to the preceding section shall be submitted to faculty members of the Institution, who shall be asked to make written remarks with respect to the fitness of the candidates with whom they are acquainted. There must be at least one positive recommendation from faculty, and no negative recommendations for the member to be invited to join. These recommendations will remain confidential to the President and Secretary.
-7. The names of those elected to membership shall be given to the President, who shall then issue them invitations to become Members of the Association, and of this Chapter.
-8. Failure of a member-elect to notify the Chapter of his/her acceptance of the invitation to membership within one week of its issuance shall constitute notice of refusal.
-9. The maximum number of members shall not be limited.
-10. The procedure for nomination and induction of new members shall be conducted once per year.
-11. Members of any other chapter of the Upsilon Pi Epsilon Association shall be eligible for automatic induction as regular members contingent upon their payment of the Chapter initiation fee.
-12. Membership should not be offered to a particular individual a second time if such membership has been previously declined by that individual for any reason with the exception of hardship cases. A student or faculty member who is offered membership may defer his or her induction until a later term.
+3. A candidate must attend a social meeting (for example, a "meet and greet") chosen by the officers in order to be eligible for induction. Additionally, the candidates are required to submit one or two factulty references.
+4. The faculty references of each candidate shall be asked to make written remarks with respect to the candidate’s fitness. There must be at least one positive recommendation from faculty, and no negative recommendations for the member to be invited to join. These recommendations will remain confidential to the President and Secretary.
+5. The candidates from the list prepared by the officers shall have their names presented ot the society after they have received positive faculty recommendation. The society shall then vote on extending an offer for membership to the eligible candidates.
+6. Votes for induction of new members shall require a present quorum. A vote shall pass if two-thirds of members not abstaining vote in the affirmative and the number of affirmative votes is no less than twenty percent of members in attendance.
+7. In case a candidate fails a first ballot, he or she may be discussed further, and a second and final vote shall be taken. On a failure at the second ballot, the individual shall not be considered for membership again that year.
+8. The names of those elected to membership shall be given to the President, who shall then issue them invitations to become Members of the Association, and of this Chapter.
+9. Failure of a member-elect to notify the Chapter of his/her acceptance of the invitation to membership within one week of its issuance shall constitute notice of refusal.
+10. The maximum number of members shall not be limited.
+11. The procedure for nomination and induction of new members shall be conducted once per year.
+12. Members of any other chapter of the Upsilon Pi Epsilon Association shall be eligible for automatic induction as regular members contingent upon their payment of the Chapter initiation fee.
+13. Membership should not be offered to a particular individual a second time if such membership has been previously declined by that individual for any reason with the exception of hardship cases. A student or faculty member who is offered membership may defer his or her induction until a later term.
 
 ## Article VII: Enabling Clauses
 
