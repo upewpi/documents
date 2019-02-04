@@ -28,31 +28,32 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 
 ### Section I: Composition of the Executive Board
 
-1. The society shall elect four primary executive officers: a President, Vice-President, Secretary, and Treasurer.
+1. The society shall elect four primary executive officers: a President, Events Coordinator, Web Secretary, Secretary, and Treasurer.
 2. The term of an office shall be from the first day of D-Term until the day before the first day of D-term of the subsequent year.
 3. Additional executive positions other than those specified above shall be created or removed at the discretion of the President, and the term for such positions shall be the same as the primary offices’.
-4. An individual appointed to an additional executive position shall not be removed from office until their term expires (Except as specified in Section V).
+4. An individual appointed to an additional executive position shall not be removed from office until their term expires (Except as specified in Section IV).
 
 ### Section II: Responsibilities of the Officers
 
 1. The President shall be the primary point of contact of the society, shall preside over meetings, shall conduct the induction of new members, shall be responsible for determining who is eligible to be inducted into the society, and shall create and appoint committees for special purposes as necessary.
 2. The Secretary shall keep records of all the transactions of the Chapter, and in particular shall keep the minutes of the meetings. The secretary shall communicate to all members the dates, times, and locations of meetings, and shall coordinate the scheduling of a time and place, having secured them, for such meetings.
 3. The Treasurer shall collect all dues and assessments and shall issue, with the assistance of the Secretary, notices of special assessments. The Treasurer shall have charge of all funds of the Chapter, shall authorize payment of bills presented against the Chapter, and shall pay therefrom bills presented against the Chapter which have been approved for payment. The Treasurer shall also represent the chapter in financial matters, in particular before the Student Government Association.
-4. Additional officer positions as created by the President shall have responsibilities as described therein.
-5. No officer shall be held accountable for a duty or responsibility created or enacted after appointment to his or her position.
-6. The Faculty Advisor shall be a senior member of the Computer Science teaching staff. The duties of the Faculty Advisor shall be to consult on matters of Chapter policy and to act as auditor of Chapter finances.
+4. The Web Secretary shall aintain and update the chapter website, add and remove members from the email alias, oversee the LinkedIn group, and maintain the chapter GitHub repository.
+5. The Events Coordinator shall be in charge of managing special events, such as Burning the Midnight Oil and company talks, which includes advertising and logistics.
+5. Additional officer positions as created by the President shall have responsibilities as described therein.
+7. No officer shall be held accountable for a duty or responsibility created or enacted after appointment to his or her position.
+7. The Faculty Advisor shall be a senior member of the Computer Science teaching staff. The duties of the Faculty Advisor shall be to consult on matters of Chapter policy and to act as auditor of Chapter finances.
 
-### Section IV: Election of the Officers
+### Section III: Election of the Officers
 
-1. The Officers of the Chapter shall be elected at the first general body meeting of  the fall semester (C Term).
-2. Installation of Officers shall take place at the first day of D term.
-3. The newly elected Officers shall assume their duties upon installation.
-4. In order to be eligible to hold office, the member must have been active at time of induction and must maintain active status for the remainder of their elected term.
-5. The confidentiality of all votes should be maintained.
-6. Voting shall be done in the order of: President, Secretary, Treasurer, and all additional officers. Voting shall take place between speeches for each position.
-7. Vacancies in any office shall be filled by special election held at the next general body meeting.
+1. The Officers of the Chapter shall be elected at the first general body meeting of the spring semester (C Term).
+2. The newly elected officers shall assume their duties starting the first day of D term.
+3. In order to be eligible to hold office, the member must have been active at time of induction and must maintain active status for the remainder of their elected term.
+4. The confidentiality of all votes should be maintained.
+5. Voting shall be done in the order of: President, Secretary, Treasurer, and all additional officers. Voting shall take place between speeches for each position as a heads down hands up vote.
+6. Vacancies in any office shall be filled by special election held at the next general body meeting.
 
-### Section V: Impeachment
+### Section IV: Impeachment
 
 1. Any executive officer may be immediately removed from office by an affirmative vote of two-thirds of Active Members.
 2. Additionally, any executive officer may be removed from their position by an affirmative vote of all other members of the Executive  Board and with the approval of the Faculty Advisor.
@@ -70,14 +71,14 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 ### Section II: Finances
 
 1. The Chapter shall charge a fee to each new member which shall consist of a Chapter Initiation Fee in the amount of twenty dollars in addition to an Association Initiation Fee which shall be determined by the National Association.
-2. Each initiate shall be required to pay Chapter and Association initiation fees prior to his/her initiation.
+2. Each initiate shall be required to pay Chapter and Association initiation fees prior to his/her initiation. An initiaite will not be considered active until thei fee is paid.
 3. Special assessments may be made at any time by a three-fourths affirmative vote of the Active Members of the Chapter.
 
 ## Article VI: Induction of New Members
 
 ### Section I: Induction Ceremony
 
-1. The induction of new Members shall be held within eight weeks of the time of their election.
+1. The induction of new Members shall be held within ten weeks of the time of their election.
 2. The induction shall specifically avoid any practice which conflicts with WPI regulations or which constitutes an attack upon the personal dignity of the initiates. The activities shall be devised to stimulate the inductees’ interest in Computer Science and to acquaint them better with the Members of the Chapter.
 
 ### Section II: Eligibility of Candidates
@@ -94,9 +95,9 @@ The eligibility of students, former students, and faculty for election to member
 
 1. There shall be one election of new members each year, occurring prior to the winter recess.
 2. The president shall prepare a list of all candidates eligible for induction into the Society.
-3. A candidate must attend a social meeting (for example, a "meet and greet") chosen by the officers in order to be eligible for induction. Additionally, the candidates are required to submit one or two factulty references.
+3. A candidate must attend a social meeting (for example, a "meet and greet") chosen by the officers in order to be eligible for induction. Additionally, the candidates are required to submit one or two faculty references.
 4. The faculty references of each candidate shall be asked to make written remarks with respect to the candidate’s fitness. There must be at least one positive recommendation from faculty, and no negative recommendations for the member to be invited to join. These recommendations will remain confidential to the President and Secretary.
-5. The candidates from the list prepared by the officers shall have their names presented ot the society after they have received positive faculty recommendation. The society shall then vote on extending an offer for membership to the eligible candidates.
+5. The candidates from the list prepared by the officers shall have their names presented to the society after they have received positive faculty recommendation. The society shall then vote on extending an offer for membership to the eligible candidates.
 6. Votes for induction of new members shall require a present quorum. A vote shall pass if two-thirds of members not abstaining vote in the affirmative and the number of affirmative votes is no less than twenty percent of members in attendance.
 7. In case a candidate fails a first ballot, he or she may be discussed further, and a second and final vote shall be taken. On a failure at the second ballot, the individual shall not be considered for membership again that year.
 8. The names of those elected to membership shall be given to the President, who shall then issue them invitations to become Members of the Association, and of this Chapter.
