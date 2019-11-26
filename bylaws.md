@@ -5,7 +5,7 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 ## Article I: Definitions
 
 1. A member will be considered an **Active Member** if they have attended at least 50% of general body meetings per semester when they have not been considered “away.” A member is considered “away” if he or she is participating in an off-campus MQP, IQP, Co-op, or Humanities Project. Regular members who have not attended at least one meeting shall not be considered active.
-2. A **Quorum** shall consist of two-thirds of the Active Members of the Chapter in any regular or special meeting.
+2. A **Quorum** shall consist of one-half of the Active Members of the Chapter in any regular or special meeting.
 3. A **Vote** shall consist of votes in person or, at the discretion of the Executive Board, votes by proxy but such proxy votes shall not count towards quorum.
 
 ## Article II: Adoption and Amendment
@@ -29,7 +29,7 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 ### Section I: Composition of the Executive Board
 
 1. The society shall elect four primary executive officers: a President, Events Coordinator, Web Secretary, Secretary, and Treasurer.
-2. The term of an office shall be from the first day of D-Term until the day before the first day of D-term of the subsequent year.
+2. The term of an officer shall be from the first day of D-Term until the day before the first day of D-term of the subsequent year.
 3. Additional executive positions other than those specified above shall be created or removed at the discretion of the President, and the term for such positions shall be the same as the primary offices’.
 4. An individual appointed to an additional executive position shall not be removed from office until their term expires (Except as specified in Section IV).
 
@@ -38,7 +38,7 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 1. The President shall be the primary point of contact of the society, shall preside over meetings, shall conduct the induction of new members, shall be responsible for determining who is eligible to be inducted into the society, and shall create and appoint committees for special purposes as necessary.
 2. The Secretary shall keep records of all the transactions of the Chapter, and in particular shall keep the minutes of the meetings. The secretary shall communicate to all members the dates, times, and locations of meetings, and shall coordinate the scheduling of a time and place, having secured them, for such meetings.
 3. The Treasurer shall collect all dues and assessments and shall issue, with the assistance of the Secretary, notices of special assessments. The Treasurer shall have charge of all funds of the Chapter, shall authorize payment of bills presented against the Chapter, and shall pay therefrom bills presented against the Chapter which have been approved for payment. The Treasurer shall also represent the chapter in financial matters, in particular before the Student Government Association.
-4. The Web Secretary shall aintain and update the chapter website, add and remove members from the email alias, oversee the LinkedIn group, and maintain the chapter GitHub repository.
+4. The Web Secretary shall maintain and update the chapter website, add and remove members from the email alias, oversee the LinkedIn group, and maintain the chapter GitHub repository.
 5. The Events Coordinator shall be in charge of managing special events, such as Burning the Midnight Oil and company talks, which includes advertising and logistics.
 5. Additional officer positions as created by the President shall have responsibilities as described therein.
 7. No officer shall be held accountable for a duty or responsibility created or enacted after appointment to his or her position.
@@ -51,7 +51,7 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 3. In order to be eligible to hold office, the member must have been active at time of induction and must maintain active status for the remainder of their elected term.
 4. The confidentiality of all votes should be maintained.
 5. Voting shall be done in the order of: President, Secretary, Treasurer, and all additional officers. Voting shall take place between speeches for each position as a heads down hands up vote.
-6. Vacancies in any office shall be filled by special election held at the next general body meeting.
+6. Vacancies in any office shall be filled by a special election held at the next general body meeting.
 
 ### Section IV: Impeachment
 
@@ -71,7 +71,7 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 ### Section II: Finances
 
 1. The Chapter shall charge a fee to each new member which shall consist of a Chapter Initiation Fee in the amount of twenty dollars in addition to an Association Initiation Fee which shall be determined by the National Association.
-2. Each initiate shall be required to pay Chapter and Association initiation fees prior to his/her initiation. An initiaite will not be considered active until thei fee is paid.
+2. Each initiate shall be required to pay Chapter and Association initiation fees prior to his/her initiation. An initiate will not be considered active until their fee is paid.
 3. Special assessments may be made at any time by a three-fourths affirmative vote of the Active Members of the Chapter.
 
 ## Article VI: Induction of New Members
