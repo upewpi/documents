@@ -4,7 +4,7 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 
 ## Article I: Definitions
 
-1. A member will be considered an **Active Member** if they have attended at least 50% of general body meetings per semester when they have not been considered “away.” A member is considered “away” if he or she is participating in an off-campus MQP, IQP, Co-op, or Humanities Project. Regular members who have not attended at least one meeting shall not be considered active.
+1. A member will be considered an **Active Member** if they have attended at least 50% of general body meetings per semester when they have not been considered “away.” A member is considered “away” if he or she is participating in an off-campus MQP, IQP, Co-op, or Humanities Project. Additionally, non-away active members must help administer at least one community service event per semester, provided that two such events are held per semester. Regular members who have not attended at least one meeting shall not be considered active.
 2. A **Quorum** shall consist of one-half of the Active Members of the Chapter in any regular or special meeting.
 3. A **Vote** shall consist of votes in person or, at the discretion of the Executive Board, votes by proxy but such proxy votes shall not count towards quorum.
 
@@ -23,6 +23,7 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 2. The membership of the Chapter shall be made up of individuals whose academic achievements, reputations and creative abilities deserve recognition, and whose membership would enhance the stature of the Association. Specifically, the membership shall include graduate students, undergraduate students, former students, and faculty in the Computer Science Department at Worcester Polytechnic Institute, elected according to the procedures detailed in Article VI of these Bylaws.
 3. Honorary Members shall be individuals of distinguished achievement in Computer Science.
 4. Eligibility for membership shall not be restricted according to race, nationality, creed, color, sexual orientation or sex.
+5. Certain benefits or events may be provided for exclusive active member use or attendance; inactive members shall not be eligible to participate.
 
 ## Article IV: Chapter Officers
 
@@ -86,7 +87,7 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 The eligibility of students, former students, and faculty for election to membership in this Chapter of the Upsilon Pi Epsilon Association shall be determined as follows:
 
 1. A graduate student must be a candidate for a graduate degree in Computer Science, and must have completed at least twelve credits of graduate study, three-quarters of this with a grade level of A.
-2. Undergraduate student eligibility shall require a minimum of a year and a half of credits, and a minimum of two Computer Science related units, with greater than fifty percent of A's in Computer Science, and a majority of A's and B's in non-Computer Science courses.
+2. Undergraduate student eligibility shall require registration as a Computer Science Bachelor’s degree candidate, a minimum of a year and a half of credits, and a minimum of two Computer Science related units, with greater than fifty percent of A's in Computer Science, and a majority of A's and B's in non-Computer Science courses.
 3. A faculty member must have been teaching in the Computer Science program or in a field closely related thereto, at Worcester Polytechnic Institute for at least one year in order to be eligible for membership in the Association. He or she must have been in responsible charge of development, preparation, or presentation of courses, or in charge of research in the Computer Science field. Achievements in research and teaching shall determine eligibility for a faculty member, rather than scholastic achievements.
 4. Former students who, at the time of their completion of degree requirements in Computer Science, satisfied the admission requirements shall be eligible for election to membership in this Chapter of the Association.
 5. Former students who do not qualify under the provisions of the previous subsection, but whose achievements in and contributions to the Computing field qualify them for appointment in the society shall be eligible for induction into the Society.
