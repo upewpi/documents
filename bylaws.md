@@ -12,10 +12,10 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 
 1. These bylaws shall become effective immediately upon adoption.
 2. These bylaws shall remain in effect until revised or amended.
-3. Any provision of these bylaws may be temporarily suspended by a two-thirds affirmative vote of the Active Membership of the chapter. The period of which the suspension is valid shall be determined at the time of the vote.
+3. Any provision of these bylaws may be temporarily suspended by a quorum vote in the affirmative. The period of which the suspension is valid shall be determined at the time of the vote.
 4. These bylaws may be suspended in whole or in part by a unanimous vote of the Executive Board with the consent of the Chapter Advisor.
 5. Any proposed amendment to these bylaws must be distributed to all members no later than two weeks prior to any vote on the adoption of such amendment.
-6. The adoption of any amendment to these Bylaws shall require a two-thirds affirmative vote of the Active Membership of the Chapter at a regular or special meeting.
+6. The adoption of any amendment to these Bylaws shall require a quorum vote in the affirmative at a regular or special meeting.
 
 ## Article III: Membership
 
@@ -56,7 +56,7 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 
 ### Section IV: Impeachment
 
-1. Any executive officer may be immediately removed from office by an affirmative vote of two-thirds of Active Members.
+1. Any executive officer may be immediately removed from office by an affirmative quorum vote.
 2. Additionally, any executive officer may be removed from their position by an affirmative vote of all other members of the Executive  Board and with the approval of the Faculty Advisor.
 
 ## Article V: Chapter Proceedings
@@ -64,7 +64,7 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 ### Section I: Chapter Meetings
 
 1. Regular meetings will be held at least once per term, except in the summer terms.
-2. Special meetings may be called by the President, the Executive Board, or by petition of one-half of the Active Membership of the Chapter.
+2. Special meetings may be called by the President, the Executive Board, or by petition of quorum.
 3. All Active Members shall be notified of a special meeting and its purpose by the Secretary one week prior to the meeting.
 4. No business shall be conducted at a called special meeting except that for which the meeting was called.
 5. Inactive members may petition the Executive Board for reactivation and reactivation shall be determined by a committee appointed by the president.
@@ -73,7 +73,7 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 
 1. The Chapter shall charge a fee to each new member which shall consist of a Chapter Initiation Fee in the amount of twenty dollars in addition to an Association Initiation Fee which shall be determined by the National Association.
 2. Each initiate shall be required to pay Chapter and Association initiation fees prior to his/her initiation. An initiate will not be considered active until their fee is paid.
-3. Special assessments may be made at any time by a three-fourths affirmative vote of the Active Members of the Chapter.
+3. Special assessments may be made at any time by a quorum affirmative vote.
 
 ## Article VI: Induction of New Members
 
@@ -87,7 +87,7 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 The eligibility of students, former students, and faculty for election to membership in this Chapter of the Upsilon Pi Epsilon Association shall be determined as follows:
 
 1. A graduate student must be a candidate for a graduate degree in Computer Science, and must have completed at least twelve credits of graduate study, three-quarters of this with a grade level of A.
-2. Undergraduate student eligibility shall require registration as a Computer Science Bachelor’s degree candidate, a minimum of a year and a half of credits, and a minimum of two Computer Science related units, with greater than fifty percent of A's in Computer Science, and a majority of A's and B's in non-Computer Science courses.
+2. Undergraduate student eligibility shall require registration as a Computer Science Bachelor’s degree candidate, ranking in the top 35% of the class, a minimum of a year and a half of credits, and a minimum of two Computer Science related units, with greater than fifty percent of A's in Computer Science, and a majority of A's and B's in non-Computer Science courses.
 3. A faculty member must have been teaching in the Computer Science program or in a field closely related thereto, at Worcester Polytechnic Institute for at least one year in order to be eligible for membership in the Association. He or she must have been in responsible charge of development, preparation, or presentation of courses, or in charge of research in the Computer Science field. Achievements in research and teaching shall determine eligibility for a faculty member, rather than scholastic achievements.
 4. Former students who, at the time of their completion of degree requirements in Computer Science, satisfied the admission requirements shall be eligible for election to membership in this Chapter of the Association.
 5. Former students who do not qualify under the provisions of the previous subsection, but whose achievements in and contributions to the Computing field qualify them for appointment in the society shall be eligible for induction into the Society.
