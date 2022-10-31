@@ -29,7 +29,7 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 
 ### Section I: Composition of the Executive Board
 
-1. The society shall elect four primary executive officers: a President, Events Coordinator, Web Secretary, Secretary, and Treasurer.
+1. The society shall elect five primary executive officers: a President, Events Coordinator, Web Secretary, Secretary, and Treasurer.
 2. The term of an officer shall be from the first day of D-Term until the day before the first day of D-term of the subsequent year.
 3. Additional executive positions other than those specified above shall be created or removed at the discretion of the President, and the term for such positions shall be the same as the primary offices’.
 4. An individual appointed to an additional executive position shall not be removed from office until their term expires (Except as specified in Section IV).
@@ -39,10 +39,10 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 1. The President shall be the primary point of contact of the society, shall preside over meetings, shall conduct the induction of new members, shall be responsible for determining who is eligible to be inducted into the society, and shall create and appoint committees for special purposes as necessary.
 2. The Secretary shall keep records of all the transactions of the Chapter, and in particular shall keep the minutes of the meetings. The secretary shall communicate to all members the dates, times, and locations of meetings, and shall coordinate the scheduling of a time and place, having secured them, for such meetings.
 3. The Treasurer shall collect all dues and assessments and shall issue, with the assistance of the Secretary, notices of special assessments. The Treasurer shall have charge of all funds of the Chapter, shall authorize payment of bills presented against the Chapter, and shall pay therefrom bills presented against the Chapter which have been approved for payment. The Treasurer shall also represent the chapter in financial matters, in particular before the Student Government Association.
-4. The Web Secretary shall maintain and update the chapter website, add and remove members from the email alias, oversee the LinkedIn group, and maintain the chapter GitHub repository.
+4. The Web Secretary shall maintain and update the chapter website, add and remove members from the email alias, oversee the LinkedIn group, maintain the chapter GitHub repository, and manage all social platforms, which includes promoting club events and opportunities.
 5. The Events Coordinator shall be in charge of managing special events, such as Burning the Midnight Oil and company talks, which includes advertising and logistics.
 6. Additional officer positions as created by the President shall have responsibilities as described therein.
-7. No officer shall be held accountable for a duty or responsibility created or enacted after appointment to his or her position.
+7. No officer shall be held accountable for a duty or responsibility created or enacted after appointment to his or her position, unless agreed upon by the majority of the executive board, which must include the officer whose responsibilities are being modified
 8. The Faculty Advisor shall be a senior member of the Computer Science teaching staff. The duties of the Faculty Advisor shall be to consult on matters of Chapter policy and to act as auditor of Chapter finances.
 
 ### Section III: Election of the Officers
@@ -87,7 +87,7 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 The eligibility of students, former students, and faculty for election to membership in this Chapter of the Upsilon Pi Epsilon Association shall be determined as follows:
 
 1. A graduate student must be a candidate for a graduate degree in Computer Science, and must have completed at least twelve credits of graduate study, three-quarters of this with a grade level of A.
-2. Undergraduate student eligibility shall require registration as a Computer Science Bachelor’s degree candidate, ranking in the top 35% of the class, a minimum of a year and a half of credits, and a minimum of two Computer Science related units, with greater than fifty percent of A's in Computer Science, and a majority of A's and B's in non-Computer Science courses.
+2. Undergraduate student eligibility shall require primary registration as a Computer Science Bachelor’s degree candidate, a minimum of a year and a half of credits, and a minimum of two Computer Science related units, with greater than fifty percent of A's in Computer Science, and a majority of A's and B's in non-Computer Science courses.
 3. A faculty member must have been teaching in the Computer Science program or in a field closely related thereto, at Worcester Polytechnic Institute for at least one year in order to be eligible for membership in the Association. He or she must have been in responsible charge of development, preparation, or presentation of courses, or in charge of research in the Computer Science field. Achievements in research and teaching shall determine eligibility for a faculty member, rather than scholastic achievements.
 4. Former students who, at the time of their completion of degree requirements in Computer Science, satisfied the admission requirements shall be eligible for election to membership in this Chapter of the Association.
 5. Former students who do not qualify under the provisions of the previous subsection, but whose achievements in and contributions to the Computing field qualify them for appointment in the society shall be eligible for induction into the Society.
@@ -99,7 +99,7 @@ The eligibility of students, former students, and faculty for election to member
 3. A candidate must attend a social meeting (for example, a "meet and greet") chosen by the officers in order to be eligible for induction. Additionally, the candidates are required to submit one or two faculty references.
 4. The faculty references of each candidate shall be asked to make written remarks with respect to the candidate’s fitness. There must be at least one positive recommendation from faculty, and no negative recommendations for the member to be invited to join. These recommendations will remain confidential to the President and Secretary.
 5. The candidates from the list prepared by the officers shall have their names presented to the society after they have received positive faculty recommendation. The society shall then vote on extending an offer for membership to the eligible candidates.
-6. Votes for induction of new members shall require a present quorum. A vote shall pass if two-thirds of members not abstaining vote in the affirmative and the number of affirmative votes is no less than twenty percent of members in attendance.
+6. Votes for induction of new members shall require a present quorum. A vote shall pass if a two-thirds majority of members not abstaining vote in the affirmative. If two-thirds is not attainable due to abstentions, the number of affirmative votes should be at least twenty percent of members in attendance.
 7. In case a candidate fails a first ballot, he or she may be discussed further, and a second and final vote shall be taken. On a failure at the second ballot, the individual shall not be considered for membership again that year.
 8. The names of those elected to membership shall be given to the President, who shall then issue them invitations to become Members of the Association, and of this Chapter.
 9. Failure of a member-elect to notify the Chapter of his/her acceptance of the invitation to membership within one week of its issuance shall constitute notice of refusal.
