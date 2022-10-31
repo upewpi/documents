@@ -41,9 +41,9 @@ We, the ALPHA CHAPTER OF MASSACHUSETTS of the UPSILON PI EPSILON ASSOCIATION, in
 3. The Treasurer shall collect all dues and assessments and shall issue, with the assistance of the Secretary, notices of special assessments. The Treasurer shall have charge of all funds of the Chapter, shall authorize payment of bills presented against the Chapter, and shall pay therefrom bills presented against the Chapter which have been approved for payment. The Treasurer shall also represent the chapter in financial matters, in particular before the Student Government Association.
 4. The Web Secretary shall maintain and update the chapter website, add and remove members from the email alias, oversee the LinkedIn group, and maintain the chapter GitHub repository.
 5. The Events Coordinator shall be in charge of managing special events, such as Burning the Midnight Oil and company talks, which includes advertising and logistics.
-5. Additional officer positions as created by the President shall have responsibilities as described therein.
+6. Additional officer positions as created by the President shall have responsibilities as described therein.
 7. No officer shall be held accountable for a duty or responsibility created or enacted after appointment to his or her position.
-7. The Faculty Advisor shall be a senior member of the Computer Science teaching staff. The duties of the Faculty Advisor shall be to consult on matters of Chapter policy and to act as auditor of Chapter finances.
+8. The Faculty Advisor shall be a senior member of the Computer Science teaching staff. The duties of the Faculty Advisor shall be to consult on matters of Chapter policy and to act as auditor of Chapter finances.
 
 ### Section III: Election of the Officers
 
